@@ -1,0 +1,17 @@
+{
+  "name": "movie",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-script start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.2",
+    "react": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  }
+}
